@@ -8,6 +8,29 @@
 
 ## Experience
 
+### **Automation Test Engineer Trainee**  
+**ExcelR Solutions Pvt Ltd**  
+*August 2024 to November 2024*
+- writing Test Cases in Jira
+- Running the test cases using Selenium- Java
+- manual testing of Websites
+- utilizing cucumber and TestNG
+- Collaborating with Team Members to thoroughly run the test cases
+
+**Tech Stack**: Java, Selenium
+
+---
+
+### **Mobile App Developer**  
+**Keshar Dairy Farm**  
+*21 June 2024 to 21 August 2024*
+- Built a mobile app to expand Keshar Dairy Farm's reach.
+- Built a responsive UI using React Native Paper and RN Elements.
+- Integrated subscription services, Razorpay payment gateway, and Google Maps for delivery routing.
+- Built RESTful APIs and integrated them with the front end.
+
+**Tech Stack**: React Native, Spring Boot, Docker, MongoDB, Android Studio.
+
 ### **Java Developer Intern**  
 **Snyam Tech Pvt Ltd**  
 *Dec 2023 to June 2024*
@@ -21,15 +44,15 @@
 
 ---
 
-### **Mobile App Developer**  
-**Keshar Dairy Farm**  
-*21 June 2024 to 21 September 2024*
-- Built a mobile app to expand Keshar Dairy Farm's reach.
-- Built a responsive UI using React Native Paper and RN Elements.
-- Integrated subscription services, Razorpay payment gateway, and Google Maps for delivery routing.
-- Built RESTful APIs and integrated them with the front end.
+### **Java Developer Intern**  
+**Sunrise Technology Pvt Ltd**  
+*June 2023 to Dec 2023*
+- Built a complete back end for a matrimonial website in Java, using Spring Boot.
+- Built RESTful API with JWT Authentication, testing them using the Postman tool.
+- Interacted with MongoDB database through Spring Boot.
+- Collaborated with front end React Developers to implement a responsive User Interface for the website.
 
-**Tech Stack**: React Native, Spring Boot, Docker, MongoDB, Android Studio.
+**Tech Stack**:Spring Boot, MongoDB.
 
 ---
 
@@ -44,7 +67,7 @@
 
 ## Projects
 
-### **My Mess Mobile App**  
+### **My Mess Mobile Application**  
 *A Personal Project*  
 *21 July 2023 to 21 Oct 2023*
 - Developed an app to digitalize the mess token system with QR-based attendance tracking.
@@ -52,6 +75,13 @@
 
 **Tech Stack**: React Native, Spring Boot, Postman, MongoDB.
 
+### **Nearby Hospital Locator Application**  
+*A Personal Project*  
+*21 July 2023 to 21 Oct 2023*
+- Developed an app for people in emergency, to locate the nearby hospitals.
+- Built front end using React Native, using Google sign in method for quick operation.
+
+**Tech Stack**: React Native.
 ---
 
 ## Skills
