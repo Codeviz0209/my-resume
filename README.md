@@ -70,8 +70,8 @@
 *A Personal Project*  
 *21 July 2023 to 21 Oct 2023*
 - Developed an app to digitalize the mess token system with QR-based attendance tracking.
-- Built its back end server using React Native for mobile app.
-- Integrated all the API with front end React Native for mobile platform.
+- Built its front end using React Native for mobile app.
+- Built its back end REST API using Spring Boto and integrated them with React Native using axios library.
 - Copyrighted in Dec 2023; Available on Play Store for about 6-8 months.
 
 **Tech Stack**: React Native, Spring Boot.
