@@ -6,14 +6,14 @@
 
 ### **Automation Test Engineer Trainee**  
 **ExcelR Solutions Pvt Ltd**  
-*August 2024 to November 2024*
+*August 2024 - Present*
 - Writing Test Cases in Jira
 - Running the test cases using Selenium - Java
 - Manual testing of Websites
 - Utilizing Cucumber and TestNG
 - Collaborating with Team Members to thoroughly run the test cases
 
-**Tech Stack**: Java, Selenium
+**Tech Stack**: Java, Selenium, TestNG, Cucumber
 
 ---
 
